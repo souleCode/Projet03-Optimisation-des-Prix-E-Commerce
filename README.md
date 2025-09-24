@@ -401,10 +401,9 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📞 Contact & Support
 
-- 📧 **Email** : votre.email@domain.com
-- 💼 **LinkedIn** : [Votre Profil LinkedIn](https://linkedin.com/in/votre-profil)
-- 🐛 **Issues** : [GitHub Issues](https://github.com/votre-username/ecommerce-price-optimization/issues)
-- 📖 **Documentation** : [Wiki du Projet](https://github.com/votre-username/ecommerce-price-optimization/wiki)
+- 📧 **Email** : souleymanetraore.2026@gmail.com
+- 🐛 **Issues** : [GitHub Issues](https://github.com/souleCode/Projet03-Optimisation-des-Prix-E-Commerce/issues)
+
 
 ---
 
@@ -412,7 +411,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 **⭐ Si ce projet vous aide, n'hésitez pas à lui donner une étoile ! ⭐**
 
-![Star History Chart](https://api.star-history.com/svg?repos=votre-username/ecommerce-price-optimization&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=souleCode/Projet03-Optimisation-des-Prix-E-Commerce&type=Date)
 
 **Made with ❤️ and lots of ☕**
 
