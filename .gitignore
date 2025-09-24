@@ -1,0 +1,10 @@
+env/
+__pycache__/
+outputs/
+postgres_data/
+results/
+data/
+*.pyc
+*.log
+.DS_Store
+.ipynb_checkpoints/
